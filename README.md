@@ -15,7 +15,6 @@ Passionate about creating functional, user-centered solutions through clean code
 * **Open Space** - HTML, CSS and JavaScript [[LINK](https://camelia-osan.github.io/Open-Space/)]
 * **Sound Pads** - HTML, CSS, JavaScript and React [[LINK](https://camelia-osan.github.io/Sound-Pads/)]
 * **Travel Journal** - HTML, CSS, JavaScript and React [[LINK](https://camelia-osan.github.io/Travel-Journal/)]
-<br>
 
 #### Data Analysis Projects
 

@@ -1,16 +1,27 @@
-## Hi there 👋
+# Aspiring **Frontend Web Developer / Data Analyst**
 
-<!--
-**camelia-osan/camelia-osan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Passionate about creating functional, user-centered solutions through clean code and meaningful data, with a continuous drive to improve and expand my skills.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+* **Frontend**: HTML, CSS, SASS, SCSS, JavaScript, TypeScript, React.js
+* **Data**: Excel, Google Sheets, SQL, MySQL, Python, Tableau
+
+### Featured Projects
+
+*Frontend Web Development Projects*
+
+* **Open Space** - HTML, CSS and JavaScript [[LINK](https://camelia-osan.github.io/Open-Space/)]
+* **Sound Pads** - HTML, CSS, JavaScript and React [[LINK](https://camelia-osan.github.io/Sound-Pads/)]
+* **Travel Journal** - HTML, CSS, JavaScript and React [[LINK](https://camelia-osan.github.io/Travel-Journal/)]
+<br>
+
+*Data Analysis Projects*
+
+* **Churn-Prediction-for-StreamWorks-Media** - Python [[LINK](https://camelia-osan.github.io/Open-Space/](https://colab.research.google.com/drive/1KJzndkwjR3Jv7p8UhB87Fj9IuB8RjLsF?usp=sharing))]
+* **Sales-and-Customer-Behaviour-Insights** - Python [[LINK](https://camelia-osan.github.io/Open-Space/](https://colab.research.google.com/drive/1RgoDI15ScDVkdg_ZkVY81uEEWeoWdx6Z?usp=sharing))]
+* **Customer-Sign-Up-Behaviour-Data-Quality-Audit** - Python [[LINK](https://camelia-osan.github.io/Travel-Journal/](https://colab.research.google.com/drive/1Z3g8geKlOLZIl775fJkfLUT91183M34P?usp=sharing))]
+
+<br>
+You can find more of my projects in my public repositories!

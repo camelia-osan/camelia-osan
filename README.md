@@ -18,9 +18,9 @@ Passionate about creating functional, user-centered solutions through clean code
 
 #### Data Analysis Projects
 
-* **Churn-Prediction-for-StreamWorks-Media** - Python [[LINK](https://colab.research.google.com/drive/1KJzndkwjR3Jv7p8UhB87Fj9IuB8RjLsF?usp=sharing)]
-* **Sales-and-Customer-Behaviour-Insights** - Python [[LINK](https://colab.research.google.com/drive/1RgoDI15ScDVkdg_ZkVY81uEEWeoWdx6Z?usp=sharing)]
-* **Customer-Sign-Up-Behaviour-Data-Quality-Audit** - Python [[LINK](https://colab.research.google.com/drive/1Z3g8geKlOLZIl775fJkfLUT91183M34P?usp=sharing)]
+* **Churn Prediction for StreamWorks Media** - Python [[LINK](https://colab.research.google.com/drive/1KJzndkwjR3Jv7p8UhB87Fj9IuB8RjLsF?usp=sharing)]
+* **Sales and Customer Behaviour Insights** - Python [[LINK](https://colab.research.google.com/drive/1RgoDI15ScDVkdg_ZkVY81uEEWeoWdx6Z?usp=sharing)]
+* **Customer Sign-Up Behaviour & Data Quality Audit** - Python [[LINK](https://colab.research.google.com/drive/1Z3g8geKlOLZIl775fJkfLUT91183M34P?usp=sharing)]
 
 <br>
 You can explore more of my work in my public repositories.

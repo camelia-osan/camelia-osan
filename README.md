@@ -5,7 +5,7 @@ Passionate about creating functional, user-centered solutions through clean code
 
 
 ### Tech Stack
-* **Frontend**: HTML, CSS, SASS, SCSS, JavaScript, TypeScript, React.js
+* **Web**: HTML, CSS, SASS, SCSS, JavaScript, TypeScript, React.js
 * **Data**: Excel, Google Sheets, SQL, MySQL, Python, Tableau
 
 ### Featured Projects

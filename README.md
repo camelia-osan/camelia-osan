@@ -22,7 +22,7 @@ Passionate about creating functional, user-centered solutions through clean code
 | *Open Space* | HTML, CSS, JavaScript | [Live](https://camelia-osan.github.io/Open-Space/) | [Code](https://github.com/camelia-osan/Open-Space) |
 | *Virtual Piano* | HTML, CSS, JavaScript | [Live](https://camelia-osan.github.io/Virtual-Piano/) | [Code](https://github.com/camelia-osan/Virtual-Piano) |
 | *Flashcards* | HTML, CSS | [Live](https://camelia-osan.github.io/Flashcards/) | [Code](https://github.com/camelia-osan/Flashcards) | 
-| *Zookeeper* | TypeScript | - | [Code](https://github.com/camelia-osan/Zookeeper)
+| *Zookeeper* | TypeScript | — | [Code](https://github.com/camelia-osan/Zookeeper)
   
 #### Data Analysis Projects
 

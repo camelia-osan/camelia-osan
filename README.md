@@ -15,6 +15,7 @@ Passionate about creating functional, user-centered solutions through clean code
 
 | **Name** | **Tools** | **Link** | **Code** |
 | --- | --- | --- | --- |
+| *Meme Generator* | HTML, CSS, JavaScript, React | [Live](https://camelia-osan.github.io/Meme-Generator/) | [Code](https://github.com/camelia-osan/Meme-Generator) |
 | *Sound Pads* | HTML, CSS, JavaScript, React | [Live](https://camelia-osan.github.io/Sound-Pads/) | [Code](https://github.com/camelia-osan/Sound-Pads) |
 | *Travel Journal* | HTML, CSS, JavaScript, React | [Live](https://camelia-osan.github.io/Travel-Journal/) | [Code](https://github.com/camelia-osan/Travel-Journal) |
 | *Tip Calculator* | HTML, CSS, JavaScript | [Live](https://camelia-osan.github.io/Tip-Calculator/) | [Code](https://github.com/camelia-osan/Tip-Calculator) |

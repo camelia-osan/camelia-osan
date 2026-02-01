@@ -1,5 +1,5 @@
 ### About Me
-Passionate about creating functional, user-centered solutions through clean code and meaningful data, with a continuous drive to improve and expand my skills.
+Passionate about creating functional, user-centered solutions through clean code, structured data and well-documented processes, with a continuous drive to improve and expand my skills.
 
 
 ### Tech Stack

@@ -1,10 +1,14 @@
 ### About Me
 Passionate about creating functional, user-centered solutions through clean code, structured data and well-documented processes, with a continuous drive to improve and expand my skills.
 
+Portfolio: [here](https://camelia-osan.github.io/portfolio/)
+
 
 ### Tech Stack
 * **Web**: HTML, CSS, SASS, SCSS, JavaScript, TypeScript, React.js
 * **Data**: Excel, Google Sheets, SQL, MySQL, Python, Tableau
+
+Currently learning: WordPress, PHP
 
 
 ### Featured Projects

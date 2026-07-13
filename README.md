@@ -3,10 +3,8 @@ Passionate about creating functional, user-centered solutions through clean code
 
 
 ### Tech Stack
-* **Web**: HTML, CSS, SASS, SCSS, JavaScript, TypeScript, React.js
+* **Web**: HTML, CSS, JavaScript, WordPress, Sass, SCSS, TypeScript, React.js
 * **Data**: Excel, Google Sheets, SQL, MySQL, Python, Tableau
-
-Currently learning: WordPress, PHP
 
 
 ### Featured Projects

@@ -15,16 +15,13 @@ Currently learning: WordPress, PHP
 
 | **Name** | **Tools** | **Link** | **Code** |
 | --- | --- | --- | --- |
+| *Stem & Petals* | WordPress, CSS | [Live](https://camelia-osan.github.io/Stem-and-Petals/) | [Code](https://github.com/camelia-osan/Stem-and-Petals) |
 | *Meme Generator* | HTML, CSS, JavaScript, React | [Live](https://camelia-osan.github.io/Meme-Generator/) | [Code](https://github.com/camelia-osan/Meme-Generator) |
 | *Sound Pads* | HTML, CSS, JavaScript, React | [Live](https://camelia-osan.github.io/Sound-Pads/) | [Code](https://github.com/camelia-osan/Sound-Pads) |
 | *Travel Journal* | HTML, CSS, JavaScript, React | [Live](https://camelia-osan.github.io/Travel-Journal/) | [Code](https://github.com/camelia-osan/Travel-Journal) |
 | *Tip Calculator* | HTML, CSS, JavaScript | [Live](https://camelia-osan.github.io/Tip-Calculator/) | [Code](https://github.com/camelia-osan/Tip-Calculator) |
-| *Results Summary Component* | HTML, CSS, JavaScript | [Live](https://camelia-osan.github.io/Results-Summary-Component/) | [Code](https://github.com/camelia-osan/Results-Summary-Component) |
-| *Calculator* | HTML, CSS, JavaScript | [Live](https://camelia-osan.github.io/Calculator/) | [Code](https://github.com/camelia-osan/Calculator) |
 | *Open Space* | HTML, CSS, JavaScript | [Live](https://camelia-osan.github.io/Open-Space/) | [Code](https://github.com/camelia-osan/Open-Space) |
 | *Virtual Piano* | HTML, CSS, JavaScript | [Live](https://camelia-osan.github.io/Virtual-Piano/) | [Code](https://github.com/camelia-osan/Virtual-Piano) |
-| *Flashcards* | HTML, CSS | [Live](https://camelia-osan.github.io/Flashcards/) | [Code](https://github.com/camelia-osan/Flashcards) | 
-| *Zookeeper* | TypeScript | — | [Code](https://github.com/camelia-osan/Zookeeper) |
 
   
 #### Data Analysis Projects
